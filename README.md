@@ -22,7 +22,7 @@ This repository contains the design, implementation, testing, and deployment det
 ## Entity-Relationship Diagram (ERD)
 The ERD illustrates the relationships between entities such as `Patients`, `Doctors`, `MedicalHistory`, `EncounterRecords`, `DiagnosticTests`, `Prescriptions`, and `Procedures`.
 
-*Attach the ER diagram here.*
+
 
 ## Database Design
 
